@@ -16,3 +16,10 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+
+ul {
+display: flex;
+justify-content:space-around;
+
+}
